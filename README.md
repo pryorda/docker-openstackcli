@@ -1,4 +1,4 @@
-# Python Openstack ClI Client
+# Python Openstack CLI Client
 
 ## For dcumentation read https://github.com/openstack/python-openstackclient
 
