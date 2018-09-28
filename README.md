@@ -1,4 +1,4 @@
-# Python Openstack CLI Client
+# Docker'd Python Openstack CLI Client
 
 ## For dcumentation read https://github.com/openstack/python-openstackclient
 
